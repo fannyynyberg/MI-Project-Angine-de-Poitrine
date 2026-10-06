@@ -1,2 +1,11 @@
-rock/
-Angine de Poitrine/
+# Data
+raw-data/
+data/
+
+# Cache
+cache/
+
+# Outputs
+figures/
+manifest.csv
+results_feature_comparison.csv
