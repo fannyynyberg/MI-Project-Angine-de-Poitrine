@@ -5,6 +5,9 @@ data/
 # Cache
 cache/
 
+# Storage
+.DS_Store
+
 # Outputs
 figures/
 manifest.csv
